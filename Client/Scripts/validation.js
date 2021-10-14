@@ -1,10 +1,12 @@
 /*
+
     {
     "name": "Jai Patel",
     "id": 301170222,
     "file": validation.js,
-    "date": "September 25, 2021"
+    "date": "October, 13 2021"
     }
+
 */
 
 // Example starter JavaScript for disabling form submissions if there are invalid fields
